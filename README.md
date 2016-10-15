@@ -5,7 +5,9 @@ A curated list of resources, communities, vendors, and more for keyboard enthusi
 ...
 
 ## Communities
+
   ### The Big Three
+  Largest three communities. All have their own wikis and buy and sell sections ([/r/mechmarket](https://reddit.com/r/mechmarket) for Reddit)
    * [Deskthority](https://deskthority.net/) - traditional keyboard forum with over 10,000 users
    * [GeekHack](https://geekhack.org/) - the largest keyboard forum with over 50,000 members
    * [/r/mechanicalkeyboards](https://reddit.com/r/mechanicalkeyboards) - subreddit with over 100,000 subsribers
@@ -21,9 +23,31 @@ A curated list of resources, communities, vendors, and more for keyboard enthusi
    * Telegram: [mechboards](https://telegram.me/mechboards) - alternative to WhatsApp with native PC client
 
   ### Facebook groups
+   * [Search for "mechanical keyboards" on Facebook](https://www.facebook.com/search/groups/?q=mechanical%20keyboards)
+   * [geekhack](https://www.facebook.com/groups/113402935366843/)
+   
     #### Regional
-  ### Other
+     * [Greece](https://www.facebook.com/groups/892871154152252/)
+     * [Hong Kong](https://www.facebook.com/groups/1224863597543144/)
+     * [Indonesia](https://www.facebook.com/groups/indomechanicalkeyboard/)
+     * [Malaysia](https://www.facebook.com/groups/MalaysiaMechanicalKeyboard/)
+     * Phillipines
+      * [Cebu](https://www.facebook.com/groups/1382311565403555/)
+      * [Mech Keyboard Market PH](https://www.facebook.com/groups/MechKeyboardMarketPH/)
+     * [United Kingdom](https://www.facebook.com/groups/1028791307238170/)
+     * United States of America
+      * [Texas](https://www.facebook.com/groups/969397709816108/)
+     * [Vietnam](https://www.facebook.com/groups/VietNamMechKey/) 
 
+    
+  ### Other
+    * For a list of subreddits, see [keyboard_subreddits on the /r/mechanicalkeyboards wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/keyboard_subreddits)
+    * [EnjoyClick](http://www.enjoyclick.org/forum.php) (Chinese)
+    * [KBDMania](http://kbdmania.net/xe/) (Korean)    
+    * [KBtalking](https://kbtalking.cool3c.com/) (Taiwanese)
+    * [Keyboard Lab](http://kbdlab.co.kr/) (Korean)
+    * [OTD](http://www.otd.kr/) (Korean)
+    
 ## Guides
 
 ## DIY
