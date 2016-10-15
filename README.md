@@ -52,6 +52,11 @@ A curated list of resources, communities, vendors, and more for keyboard enthusi
 
 ## DIY
 ### Cutting services
+ Make sure to check out local universities, hackerspaces/makerspaces, and shops in addition to these services.
+ * [Lasergist](http://lasergist.com/) - stainless steel plates only, free worldwide shipping
+ * [eMachineShop](http://www.emachineshop.com/) - a wide variety of materials and services
+ * [Big Blue Saw](https://www.bigbluesaw.com/) - waterjet cutting in several materials
+
 ### CAD resources
 
 ## Vendors
