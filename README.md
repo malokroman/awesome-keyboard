@@ -18,7 +18,9 @@ A curated list of resources, communities, vendors, and more for keyboard enthusi
    * [/r/mechanicalkeyboards wiki]() - consumer oriented wiki with guides on buying, maintenance, repairing, and more.
 
   ### Chats
-   * IRC: [#mechboards @ Freenode](irc://chat.freenode.net:6697/#mechboards) ([web client](https://webchat.freenode.net/?channels=mechboards)) - good old IRC!
+   * IRC: [#deskthority @ Freenode](irc://chat.freenode.net:6697/#deskthority) ([web client](https://webchat.freenode.net/?channels=deskthority)) - Deskthority's IRC channel
+   * IRC: [#geekhack @ Freenode](irc://chat.freenode.net:6697/#geekhack) ([web client](https://webchat.freenode.net/?channels=geekhack)) - Geekhack's's IRC channel
+   * IRC: [#mechboards @ Freenode](irc://chat.freenode.net:6697/#mechboards) ([web client](https://webchat.freenode.net/?channels=mechboards)) - /r/mechanicalkeyboards' IRC channel
    * Discord: [mechkeys](https://discord.gg/mechkeys) - gaming oriented service that combines modernised IRC style text chat and voice chat
    * Telegram: [mechboards](https://telegram.me/mechboards) - alternative to WhatsApp with native PC client
 
