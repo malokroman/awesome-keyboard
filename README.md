@@ -2,11 +2,23 @@
 A curated list of resources, communities, vendors, and more for keyboard enthusiasts. Primarily aimed at more experienced users; beginners who are looking for their first mechanical keyboard may want to check out the more consumer oriented [/r/mechanicalkeyboards wiki](https://reddit.com/r/mechanicalkeyboards/wiki) instead.
 
 ## Table of Contents
-...
+* [Communities](#communities)
+    * [The Big Three](#the-big-three)
+    * [Wikis](#wikis)
+    * [Chats](#chats)
+    * [Facebook groups](#facebook-groups)
+        * [Regional](#regional)
+    * [Other](#other)
+* [Guides](#guides)
+* [DIY](#diy)
+    * [Cutting services](#cutting-services) 
+    * [CAD resources](#cad-resources)
+* [Vendors](#vendors)
+
 
 ## Communities
   ### The Big Three
-  
+
   Largest three communities. All have their own wikis and buy and sell sections ([/r/mechmarket](https://reddit.com/r/mechmarket) for Reddit)
    * [Deskthority](https://deskthority.net/) - traditional keyboard forum with over 10,000 users
    * [GeekHack](https://geekhack.org/) - the largest keyboard forum with over 50,000 members
