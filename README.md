@@ -5,7 +5,6 @@ A curated list of resources, communities, vendors, and more for keyboard enthusi
 ...
 
 ## Communities
-
   ### The Big Three
   
   Largest three communities. All have their own wikis and buy and sell sections ([/r/mechmarket](https://reddit.com/r/mechmarket) for Reddit)
